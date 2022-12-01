@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите 3 числа:");
+﻿// Нахождение наибольшего числа из 3-х разных чисел.
+Console.WriteLine("Введите 3 числа:");
 int num_1 = Convert.ToInt32(Console.ReadLine());
 int num_2 = Convert.ToInt32(Console.ReadLine());
 int num_3 = Convert.ToInt32(Console.ReadLine());

@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите первое число, ");
+﻿//Нахождение большего числа
+Console.WriteLine("Введите первое число, ");
 int num_a = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("Введите второе число, ");
